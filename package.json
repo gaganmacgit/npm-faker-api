@@ -1,0 +1,20 @@
+{
+  "name": "npm-faker-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node seed.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "faker": "^4.1.0",
+    "lodash": "^4.17.10",
+    "mongodb": "^3.0.10",
+    "mongoose": "^5.1.4"
+  }
+}
